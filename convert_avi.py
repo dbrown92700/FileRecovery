@@ -32,3 +32,4 @@ for x in new:
                 f.write(f'{dir}/{file} CONVERTED\n')
             if srt_file in files:
                 os.rename(f'{dir}/{srt_file}', f'{archive_dir}/{srt_file}')
+

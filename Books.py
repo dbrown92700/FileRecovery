@@ -19,3 +19,4 @@ for y in old:
 for x in old_list:
     if x not in new_list:
         print(x)
+
